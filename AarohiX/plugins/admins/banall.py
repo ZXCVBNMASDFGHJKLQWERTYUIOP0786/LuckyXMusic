@@ -2,7 +2,7 @@ from AarohiX import app
 from config import OWNER_ID
 from pyrogram import filters, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from AarohiX.utils.jarvis_ban import admin_filter
+from AarohiX.utils.top_ban import admin_filter
 from AarohiX.misc import SUDOERS
 
 BOT_ID = app.me.id  # Corrected this line
