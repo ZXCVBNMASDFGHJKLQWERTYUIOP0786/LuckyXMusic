@@ -102,7 +102,7 @@ VC_TAG = [ "**➠ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ, ᴋᴇsᴇ ʜᴏ 🐱**",
         ]
 
 
-@app.on_message(filters.command(["gntag", "goodnight"], prefixes=["/"]))
+@app.on_message(filters.command(["gntag", "goodnighttag"], prefixes=["/"]))
 async def mentionall(client, message):
     chat_id = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
