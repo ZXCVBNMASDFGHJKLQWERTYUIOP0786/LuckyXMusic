@@ -10,6 +10,7 @@ from AarohiX.utils.database import add_served_chat, delete_served_chat
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from AarohiX.utils.database import get_assistant
 import asyncio
+from config import START_IMG_URL
 from AarohiX.misc import SUDOERS
 from AarohiX.mongo.afkdb import HEHE
 from AarohiX.core.userbot import Userbot
@@ -36,13 +37,13 @@ from AarohiX.utils.database import get_assistant, is_active_chat
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
+        photo=config.START_IMG_URL,
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "ᴏᴡɴᴇʀ", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
                 ]
             ]
         ),
@@ -54,13 +55,13 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     userbot = await get_assistant(chat_id)
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
+        photo=config.START_IMG_URL,
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "ᴏᴡɴᴇʀ", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
                 ]
             ]
         ),
@@ -71,13 +72,13 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
+        photo=config.START_IMG_URL,
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "ᴏᴡɴᴇʀ", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
                 ]
             ]
         ),
@@ -103,7 +104,7 @@ import time
 async def add_all(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
-        await message.reply("**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @TG_VC_BOT`**")
+        await message.reply("**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @LuckyXMusic_Bot`**")
         return
     
     bot_username = command_parts[1]
