@@ -5,12 +5,12 @@ import os
 import re
 import asyncio
 import time
+from config import START_IMG_URL
 from AarohiX import app
 from AarohiX.utils.database import add_served_chat, delete_served_chat
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from AarohiX.utils.database import get_assistant
 import asyncio
-from config import START_IMG_URL
 from AarohiX.misc import SUDOERS
 from AarohiX.mongo.afkdb import HEHE
 from AarohiX.core.userbot import Userbot
