@@ -1,6 +1,6 @@
 from pyrogram import filters
 from pymongo import MongoClient
-from ANNIEMUSIC import app
+from AarohiX import app
 from config import MONGO_DB_URI
 import json
 from json import loads
@@ -9,7 +9,7 @@ from pyrogram.types import *
 
 
 mongo_client = MongoClient(MONGO_DB_URI)
-db = mongo_client["JARVISV1"]
+db = mongo_client["AarohiX"]
 collection = db["ranking"]
 
 user_data = {}
