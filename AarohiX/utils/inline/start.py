@@ -35,16 +35,13 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text="❤️‍🔥𝐎𝚆𝙽𝙴𝚁❤️‍🔥", user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="💝𝐉𝙰𝙰𝙽💝", user_id=5493923823),
+            InlineKeyboardButton(text="💝𝐉𝙰𝙰𝙽💝", bot_id=7048220980),
         ],
         [
            InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")
         ],
         [
-InlineKeyboardButton(text="𝐒𝚃𝚄𝙳𝚈", url=f"https://t.me/+UQUsfzMdlIJjNjll"),
-            InlineKeyboardButton(text="𝚃 𝚀𝚄𝙸𝚉", url=f"https://t.me/T_QUIZ"),
-        ],
-        [
+
 InlineKeyboardButton(text=_["S_B_5"], user_id=5493923823),
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
