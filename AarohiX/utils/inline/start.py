@@ -51,10 +51,7 @@ InlineKeyboardButton(text=_["S_B_5"], user_id=5493923823),
         ],
         [
 InlineKeyboardButton(text=_["S_B_7"], url=f"https://t.me/Miss_Mahi_Bot?startgroup=true")
-        ],
-        [
-InlineKeyboardButton(text=_["S_B_8"], url=f"https://youtube.com/@Tiki_Star_786?si=R0rzHy1TsBCoLQ7B"),
-            InlineKeyboardButton(text=_["S_B_9"], url=f"https://www.instagram.com/itz_lucky.raja?igsh=ajFtZDRmbTZoaHY5"),
+        
         ],
     ]
 
