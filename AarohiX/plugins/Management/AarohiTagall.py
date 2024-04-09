@@ -140,7 +140,6 @@ TAGMES = [ " **𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 𝐊𝐚𝐡𝐚 𝐇𝐨🥱** ",
 
 @app.on_message(filters.command(["tagall", "all", "tagmember"], prefixes=["/", "@", "#"]))
 async def mentionall(client, message):
-    start = datetime.now()
     chat_id = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
         return await message.reply("This command can be used in groups and channels!")
@@ -200,7 +199,6 @@ async def mentionall(client, message):
 
 @app.on_message(filters.command(["cancel", "stop"]))
 async def cancel_spam(client, message):
-    start = datetime.now()
     if not message.chat.id in spam_chats:
         return await message.reply("No active mention process is started by me.")
     is_admin = False
