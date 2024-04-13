@@ -34,18 +34,21 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐎ᴡɴᴇʀ", user_id=config.OWNER_ID),
+            
+InlineKeyboardButton(text="𝐎ᴡɴᴇʀ", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="𝐃ᴇᴠʟᴏᴘᴇʀ", user_id=7048220980),
         ],
         [
-           InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")
+          
+InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
+
         ],
         [
-InlineKeyboardButton(text=_["S_B_7"], url=f"")
+InlineKeyboardButton(text=_["S_B_7"], url=f"https://github.com/The-LuckyX/LuckyXMusic")
         
         ],
     ]
