@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardButton
 
 import config
 from AarohiX import app
-from config import BOT_USERNAME
+from config import BOT_USERNAME , OWNER_ID
 
 
 def start_panel(_):
@@ -34,7 +34,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐎ᴡɴᴇʀ", url=config.OWNER_ID),
+            InlineKeyboardButton(text="𝐎ᴡɴᴇʀ", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="𝐃ᴇᴠʟᴏᴘᴇʀ", user_id=5493923823),
         ],
         [
