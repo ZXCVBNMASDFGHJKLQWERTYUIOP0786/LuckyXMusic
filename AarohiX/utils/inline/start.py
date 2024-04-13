@@ -29,28 +29,16 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_3"],
-                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                text="💠 𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂 💠",
+                url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
         [
-            
-InlineKeyboardButton(text="𝐎ᴡɴᴇʀ", user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="𝐃ᴇᴠʟᴏᴘᴇʀ", user_id=7048220980),
+            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="𝐌ᴏʀᴇ🥀", url=config.SUPPORT_CHANNEL),
         ],
         [
-          
-InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")
-        ],
-        [
-            InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
-
-        ],
-        [
-InlineKeyboardButton(text=_["S_B_7"], url=f"https://github.com/The-LuckyX/LuckyXMusic")
-        
+            InlineKeyboardButton(text="۞ 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ۞", callback_data="settings_back_helper")
         ],
     ]
-
     return buttons
