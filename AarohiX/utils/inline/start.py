@@ -34,11 +34,15 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.SUPPORT_CHAT),
-            InlineKeyboardButton(text="𝐌ᴏʀᴇ🥀", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="𝐎ᴡɴᴇʀ", url=config.OWNER_ID),
+            InlineKeyboardButton(text="𝐃ᴇᴠʟᴏᴘᴇʀ", user_id=5493923823),
         ],
         [
             InlineKeyboardButton(text="۞ 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ۞", callback_data="settings_back_helper")
+        ],
+        [
+            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="𝐌ᴏʀᴇ🥀", url=config.SUPPORT_CHANNEL),
         ],
     ]
     return buttons
