@@ -83,7 +83,7 @@ HELP_5 = """😉 **<u>ᴇxᴛʀᴀs :</u>**
 
 /lyrics [sᴏɴɢ ɴᴀᴍᴇ] » sᴇᴀʀᴄʜ ʟʏʀɪᴄs ғᴏʀ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ sᴏɴɢ ᴀɴᴅ sᴇɴᴅ ᴛʜᴇ ʀᴇsᴜʟᴛs.
 
-/shayri , /love , /gf , /bf » 𝙶𝙴𝚃 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 𝙿𝙰𝚁𝚃𝙽𝙴𝚁..
+/shayri , /gf , /bf » 𝙶𝙴𝚃 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 𝙿𝙰𝚁𝚃𝙽𝙴𝚁..
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
 
@@ -184,9 +184,9 @@ HELP_12 = """🤬 **<u>ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ</u>** [ᴏɴʟʏ ғᴏʀ s�
 
 HELP_13 = """😻 **<u>ᴍᴏʀᴇ ᴄᴜᴛᴇ ғᴇᴀᴛᴜʀᴇs 😻</u>** 
 
-/tagall , /utag , /ftag » ᴛᴀɢ ᴀʟʟ ᴍᴇᴍʙᴇʀs ᴏɴᴇ ʙʏ ᴏɴᴇ ғᴏʀ ᴠᴄ.
+/vctag , /tagall , /utag , /hitag , /entag , /gmtag ,/gntag , » ᴛᴀɢ ᴀʟʟ ᴍᴇᴍʙᴇʀs ᴏɴᴇ ʙʏ ᴏɴᴇ ғᴏʀ ᴠᴄ.
 
-/vctag , /stopvctag » sᴛᴀʀᴛ ᴛᴀɢɢɪɴɢ ғᴏʀ ᴠᴄ ᴏɴᴇ ʙʏ ᴏɴᴇ.
+/stopvctag , /stoptagall , /cancel , /stopen , /stophi /stopgm , /stopgm» STOP ᴛᴀɢɢɪɴɢ ғᴏʀ ᴠᴄ ᴏɴᴇ ʙʏ ᴏɴᴇ.
 
 /bin [your cc bins no.] » ᴄʜᴇᴄᴋ ʙɪɴ ᴀᴄᴛɪᴠᴇ ᴏʀ ɴᴏᴛ.
 
@@ -258,20 +258,7 @@ HELP_17 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
 """
-
 HELP_18 = """
-<b><u>sʜᴀʏʀɪ :</b></u>
-
-/shayri , /love , /gf , /bf » 𝙶𝙴𝚃 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 𝙿𝙰𝚁𝚃𝙽𝙴𝚁..
-
-/gali » ɢᴇᴛ sᴏᴍᴇ ɢᴀʟɪ sᴇɴᴛᴇɴᴄᴇs ғᴏʀ ᴀʙᴜsᴇ ᴀɴʏᴏᴊᴇ [ʙᴏᴛ ᴘᴍ]
-
-/vcraid » ᴄᴏᴍᴍɪɴɢ sᴏᴏɴ.
- 
-☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
- """
-
-HELP_19 = """
 <b><u>Iɴꜰᴏ :</b></u>
 
 /id : ɢᴇᴛ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ ɪᴅ. ɪғ ᴜsᴇᴅ ʙʏ ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ, ɢᴇᴛs ᴛʜᴀᴛ ᴜsᴇʀ's ɪᴅ.
@@ -280,7 +267,7 @@ HELP_19 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
 """
-HELP_20 = """
+HELP_19 = """
 <b><u>Gʀᴏᴜᴘ :</b></u>
 ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴄᴏᴍᴍᴀɴᴅs:
 
@@ -298,7 +285,7 @@ HELP_20 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
 """
-HELP_21 = """
+HELP_20 = """
 <b><u>Exᴛʀᴀ :</b></u>
 
 ⦿ /math ➠ sᴏʟᴠᴇs ᴍᴀᴛʜᴇᴍᴀᴛɪᴄᴀʟ ᴘʀᴏʙʟᴇᴍs ᴀɴᴅ ᴇǫᴜᴀᴛɪᴏɴs.
@@ -315,7 +302,7 @@ HELP_21 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
 """
-HELP_22 = """
+HELP_21 = """
 <b><u>Iᴍᴀɢᴇ :</b></u>
 ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ɪᴍᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
@@ -325,25 +312,7 @@ HELP_22 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
 """
-HELP_23 = """
-<b><u>Aᴄᴛɪᴏɴ :</b></u>
-» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ Bᴀɴs & Mᴜᴛᴇ :
-
- ❍ /kickme: kicks the user who issued the command
-
-Admins only:
- ❍ /ban <userhandle>: bans a user. (via handle, or reply)
- ❍ /sban <userhandle>: Silently ban a user. Deletes command, Replied message and doesn't reply. (via handle, or reply)
- ❍ /tban <userhandle> x(m/h/d): bans a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
- ❍ /unban <userhandle>: unbans a user. (via handle, or reply)
- ❍ /kick <userhandle>: kicks a user out of the group, (via handle, or reply)
- ❍ /mute <userhandle>: silences a user. Can also be used as a reply, muting the replied to user.
- ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
- ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
- 
-☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
-
-HELP_24 = """
+HELP_22 = """
 <b><u>Sᴇᴀʀᴄʜ :</b></u>
 Available commands:
 ❍ /google <query> : Search the google for the given query.
@@ -363,7 +332,7 @@ Example:
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
 
-HELP_25 = """
+HELP_23 = """
 <b><u>ᴄᴄ :</b></u>
 ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴄᴄ !
 /gen  ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʙɪɴ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʟɪᴠᴇ ᴄᴄ.
@@ -373,7 +342,7 @@ HELP_25 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
 
-HELP_26 = """
+HELP_24 = """
 <b><u>ᴛᴇxᴛ ᴇᴅɪᴛɪɴɢ :</b></u>
 ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴛᴇxᴛ ᴇᴅɪᴛɪɴɢ ᴏʀ ᴅᴇsɪɢɴɪɴɢ : 
 /font Oʀ /fonts ➠  ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ғᴏɴᴛs ᴇғғᴇᴄᴛ.
@@ -386,7 +355,7 @@ HELP_26 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
 
-HELP_27 = """
+HELP_25 = """
 <b><u>ᴍᴀsᴛɪ♡︎ :</b></u>
 ᴇɴᴊᴏʏ ᴏʀ ɴᴏᴛʜɪɴɢ...♡︎
 /couples ➠ ɢᴇɴʀᴀᴛᴇs ᴄᴏᴜᴘʟᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
@@ -412,7 +381,7 @@ HELP_27 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
 
-HELP_28 = """
+HELP_26 = """
 <b><u>ʀᴇᴘᴏ ʀᴇʟᴀᴛᴇᴅ :</b></u>
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ʀᴇɢᴀʀᴅɪɴɢ ʀᴇᴘᴏ
 /allrepo ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ɢɪᴛʜᴜʙ ᴜsᴇʀɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴀʟʟ ʀᴇᴘᴏ ᴏғ ᴛʜᴀᴛ ᴀᴄᴄᴏᴜɴᴛ.
@@ -421,7 +390,7 @@ HELP_28 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
 
-HELP_29 = """
+HELP_27 = """
 <b><u>ɴᴏᴛᴇs :</b></u>
 ʀᴇɢᴀʀᴅɪɴɢ ɴᴏᴛᴇs....
 /save ➠ ᴇɴᴛᴇʀ ɴᴏᴛᴇ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴀᴠᴇ ᴛʜᴇ ɴᴏᴛᴇ.
@@ -432,7 +401,7 @@ HELP_29 = """
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
 
-HELP_30 = """
+HELP_28 = """
 <b><u>ɢᴀᴍᴇs :</b></u>
  Play Game With Emojis:
 /dice - Dice 🎲
@@ -443,21 +412,3 @@ HELP_30 = """
 /jackpot - Spin slot machine 🎰
 
 ☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆"""
-
-HELP_31 = """
-<b><u>ᴏᴡɴᴇʀ :</b></u>
-
-☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/itz_Lucky_Raja)............☆
-"""
-
-HELP_32 = """
-<b><u>ᴅᴇᴠʟᴏᴘᴇʀ :</b></u>
-
-☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
-"""
-
-HELP_33 = """
-<b><u>ʀᴇᴘᴏ :</b></u>
-
-☆............𝙱𝚈 » [𝐋𝚄𝙲𝙺𝚈 𝐑𝙰𝙹𝙰](https://t.me/luckyraja0)............☆
-"""
